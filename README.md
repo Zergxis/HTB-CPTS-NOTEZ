@@ -1,4 +1,5 @@
 ---
+icon: square-full
 cover: .gitbook/assets/wp11258428-hack-the-box-wallpapers.jpg
 coverY: 0
 layout:
@@ -17,5 +18,5 @@ layout:
     visible: true
 ---
 
-# HTB-CPTS-NOTEZ
+# 77LL77 HTB-CPTS-NOTEZ
 
